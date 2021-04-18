@@ -15,8 +15,14 @@ The training of the StyleGAN model was done in batches where 6 batches of roughl
 
 Using the knowledge from the paper, some part of the author's code, we are able to generate the following results for our project:
 
+![Reproduce](https://github.com/Shivani29sheth/DNN-Personification/blob/master/GAN%20Local%20Editing%20Reproduce/GAN1.png)
+
 Here we see how the specific features of the face can be swapped and local editing is possible, as claimed bby the paper.
 
 # GAN Local Editing Extend Goal
 
 Using the knowledge of Local Editing, we apply that to all features in order to obtain a full facial feature transfer. Applying this to all local features on face one by one gives us the following result :
+
+![Extended Paper1](https://github.com/Shivani29sheth/DNN-Personification/blob/master/GAN%20Local%20Editing%20Reproduce/GAN2.png)
+
+We can see above, how the entire facial features are transferred at the end of ths image. The face of the female at the end has the entire facial features derived from the male face and similar with the female face. This is the goal we wanted to extend in our project.
