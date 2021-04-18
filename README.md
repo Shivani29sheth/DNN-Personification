@@ -11,12 +11,12 @@ The specifications of the resource used are above.
 The training of the StyleGAN model was done in batches where 6 batches of roughly 12 hrs training was divided and the training was resumed from the point the previous batch left. This led in using the StyleGAN model for our Local GAN editing project. The snapshot of the training example is attached below.
 ![Training PIC](https://github.com/Shivani29sheth/DNN-Personification/blob/master/GAN%20Local%20Editing%20Reproduce/1122.png)
 
-#GAN Local Editing Reproduce
+# GAN Local Editing Reproduce
 
 Using the knowledge from the paper, some part of the author's code, we are able to generate the following results for our project:
 
 Here we see how the specific features of the face can be swapped and local editing is possible, as claimed bby the paper.
 
-#GAN Local Editing Extend Goal
+# GAN Local Editing Extend Goal
 
 Using the knowledge of Local Editing, we apply that to all features in order to obtain a full facial feature transfer. Applying this to all local features on face one by one gives us the following result :
