@@ -41,3 +41,14 @@ The generation of the images can be seen by looking at the transformations our f
 
 ![Generation_StarGAN_v2](https://github.com/Shivani29sheth/DNN-Personification/blob/master/StarGAN%20v2%20Reproduce/metrics/ref_vid.gif)
 
+# StarGAN v2 Extended Goal
+
+We extended this paper implementation to videos and we get the following output.
+
+![Video StarGAN V2](https://github.com/Shivani29sheth/DNN-Personification/blob/master/StarGAN%20v2%20Reproduce/metrics/TonyStark.gif)
+
+This is pretty amazing and unexpectedely stunning result we got.
+
+The implementation and presentation can be seen on YouTube. 
+https://www.youtube.com/watch?v=1-WYZ4UKD1Q&t=54s
+
