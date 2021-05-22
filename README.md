@@ -51,5 +51,5 @@ This is pretty amazing and unexpectedely stunning result we got.
 We converted video to GIF, extracted frames from GIF, used them as images, then applied StarGAN v2, combined them into frames for GIF, made GIF, adjusted speed, converted GIF to video and got amazing results. The results with sound can be seen in the YouTube link.
 
 The implementation and presentation can be seen on YouTube. 
-https://www.youtube.com/watch?v=1-WYZ4UKD1Q&t=54s
+https://www.youtube.com/watch?v=q8Bsk0GanjU
 
